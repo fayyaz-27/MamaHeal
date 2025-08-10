@@ -1,4 +1,6 @@
-# MamaHeal — Smart Postpartum Recovery Belt
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# MamaHeal - Smart Postpartum Recovery Belt
 
 **Team**: INCM4T208  
 **Hackathon**: JIPMER × IITB MedTech Hackathon 2025
